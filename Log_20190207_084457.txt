@@ -1,0 +1,104 @@
+[3] 8:44:57 AM: Log started for 'C:\Tosca_Projects\TOSCA_Workspaces\ToscaTraining2\ToscaTraining2.tws'
+[3] 8:44:57 AM: Log level: 4
+[3] 8:44:57 AM: Release: 12.0.0.19268
+[3] 8:44:57 AM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 12.0.0.1191 (19268)
+[3] 8:44:57 AM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 12.0.0.1191 (19268)
+[3] 8:44:57 AM:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 12.0.0.1191 (19268)
+[3] 8:44:57 AM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 12.0.0.1191 (19268)
+    + : SAPSolutionManagerIntegration 12.0.0.1191 (19268)
+[3] 8:44:57 AM:  + OptIntAddIn: OptIntAddIn 12.0.0.1191 (19268)
+[3] 8:44:57 AM:  + RemoteControl: RemoteControlAddIn 12.0.0.1191 (19268)
+[3] 8:44:57 AM:  + Reporting: ReportingAddIn 12.0.0.1191 (19268)
+[3] 8:44:57 AM:  + ReportingUI: ReportingUIAddIn 12.0.0.1191 (19268)
+[3] 8:44:57 AM:  + RequirementsManagementAddIn: RequirementsManagement 12.0.0.1191 (19268)
+[3] 8:44:57 AM:  + RequirementsManagementUIAddIn: RequirementsManagementUI 12.0.0.1191 (19268)
+[3] 8:44:57 AM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 12.0.0.1191 (19268)
+[3] 8:44:57 AM:  + SoapUiImporterAddIn: SoapUiImporterAddIn 12.0.0.1191 (19268)
+[3] 8:44:57 AM:  + TestCaseDesign: TestCaseDesign 12.0.0.1191 (19268)
+[3] 8:44:57 AM:  + ControlFlowDiagram: TestCaseVisualizationAddIn 12.0.0.1191 (19268)
+[3] 8:44:57 AM:  + XDefinitions: XDefinitions 12.0.0.1191 (19268)
+[3] 8:44:57 AM:  + XDefinitionsUI: XDefinitionsUI 12.0.0.1191 (19268)
+[3] 8:44:57 AM: Opened from Workspace File 'C:\Tosca_Projects\TOSCA_Workspaces\ToscaTraining2\ToscaTraining2.tws'
+[4] 8:44:58 AM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 8:44:58 AM:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 8:44:58 AM:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 8:44:58 AM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 8:44:58 AM:  ShowStatusInfo: 'Ready'
+[4] 8:44:58 AM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 8:44:58 AM:  ShowStatusInfo: 'Ready'
+[4] 8:44:58 AM:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 8:44:58 AM:  ShowStatusInfo: 'Ready'
+[4] 8:44:58 AM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 8:44:58 AM:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 8:44:58 AM:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 8:44:58 AM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 8:44:58 AM:  ShowStatusInfo: 'Ready'
+[4] 8:44:58 AM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 8:44:58 AM:  ShowStatusInfo: 'Ready'
+[4] 8:44:58 AM:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 8:44:58 AM:  ShowStatusInfo: 'Ready'
+[4] 8:44:58 AM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 8:44:58 AM:  ShowStatusInfo: 'Refresh all finished'
+[4] 8:44:58 AM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 8:44:58 AM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 8:44:58 AM:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 8:44:58 AM:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 8:44:58 AM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 8:44:58 AM:  ShowStatusInfo: 'Ready'
+[4] 8:44:58 AM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 8:44:58 AM:  ShowStatusInfo: 'Ready'
+[4] 8:44:58 AM:  ShowStatusInfo: 'Refresh navigation view 'ScratchBook''
+[4] 8:44:58 AM:  ShowStatusInfo: 'Ready'
+[4] 8:44:58 AM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 8:44:58 AM:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 8:44:58 AM:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 8:44:58 AM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 8:44:58 AM:  ShowStatusInfo: 'Ready'
+[4] 8:44:58 AM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 8:44:58 AM:  ShowStatusInfo: 'Ready'
+[4] 8:44:58 AM:  ShowStatusInfo: 'Refresh detail view 'ScratchBook''
+[4] 8:44:58 AM:  ShowStatusInfo: 'Ready'
+[4] 8:44:58 AM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 8:44:58 AM:  ShowStatusInfo: 'Refresh all finished'
+[3] 8:44:58 AM: OpenWorkspace took 00:00:02.1406250 to finish
+[4] 8:45:03 AM:  ShowStatusInfo: 'Ready'
+[4] 8:45:04 AM:  ShowStatusInfo: '1 object selected'
+[4] 8:45:09 AM:  ShowStatusInfo: 'Ready'
+[4] 8:45:12 AM:  ShowStatusInfo: '1 object selected'
+[4] 8:45:14 AM:  ShowStatusInfo: 'Ready'
+[4] 8:45:14 AM:  ShowStatusInfo: '1 object selected'
+[4] 8:45:15 AM:  ShowStatusInfo: 'Ready'
+[4] 8:45:15 AM:  ShowStatusInfo: '1 object selected'
+[4] 8:45:18 AM:  ShowStatusInfo: 'Ready'
+[4] 8:45:18 AM:  ShowStatusInfo: '1 object selected'
+[4] 8:45:20 AM:  ShowStatusInfo: 'Ready'
+[4] 8:45:20 AM:  ShowStatusInfo: '1 object selected'
+[4] 8:45:22 AM:  ShowStatusInfo: 'Ready'
+[4] 8:45:22 AM:  ShowStatusInfo: '1 object selected'
+[4] 8:45:24 AM:  ShowStatusInfo: 'Ready'
+[4] 8:45:25 AM:  ShowStatusInfo: '1 object selected'
+[4] 8:45:25 AM:  ShowStatusInfo: 'Ready'
+[4] 8:45:28 AM:  ShowStatusInfo: '1 object selected'
+[4] 8:45:30 AM:  ShowStatusInfo: 'Ready'
+[4] 8:45:30 AM:  ShowStatusInfo: '1 object selected'
+[4] 8:45:34 AM:  ShowStatusInfo: 'Ready'
+[4] 8:45:34 AM:  ShowStatusInfo: '1 object selected'
+[4] 8:45:36 AM:  ShowStatusInfo: 'Ready'
+[4] 8:45:37 AM:  ShowStatusInfo: '1 object selected'
+[4] 8:45:39 AM:  ShowStatusInfo: 'Ready'
+[4] 8:45:39 AM:  ShowStatusInfo: '1 object selected'
+[4] 8:45:42 AM:  ShowStatusInfo: 'Ready'
+[4] 8:45:42 AM:  ShowStatusInfo: '1 object selected'
+[4] 8:45:47 AM:  ShowStatusInfo: 'Ready'
+[4] 8:45:47 AM:  ShowStatusInfo: '1 object selected'
+[4] 8:45:48 AM:  ShowStatusInfo: 'Ready'
+[4] 8:45:48 AM:  ShowStatusInfo: '1 object selected'
+[4] 8:45:50 AM:  ShowStatusInfo: 'Ready'
+[4] 8:45:50 AM:  ShowStatusInfo: '1 object selected'
+[4] 8:45:52 AM:  ShowStatusInfo: 'Ready'
+[4] 8:45:52 AM:  ShowStatusInfo: '1 object selected'
+[4] 8:45:55 AM:  ShowStatusInfo: 'Ready'
+[4] 8:45:55 AM:  ShowStatusInfo: '1 object selected'
+[4] 8:46:00 AM:  ShowStatusInfo: 'Ready'
+[3] 8:46:09 AM: Closing Workspace!
+[3] 8:46:09 AM: Log closed!
